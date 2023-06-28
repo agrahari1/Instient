@@ -1,0 +1,219 @@
+.instient-technical-challenge-w-child {
+  position: absolute;
+  height: calc(100% - 84px);
+  width: calc(100% - 1222px);
+  top: 37px;
+  right: 1188px;
+  bottom: 47px;
+  left: 34px;
+  background-color: var(--color-gainsboro);
+}
+.instient-technical-challenge-w-item {
+  position: absolute;
+  height: calc(100% - 209px);
+  width: calc(100% - 1259px);
+  top: 50px;
+  right: 97px;
+  bottom: 159px;
+  left: 1162px;
+  border-radius: 8px;
+  background-color: #32c1ff;
+}
+.blank-line {
+  margin: 0;
+}
+.send,
+.text {
+  position: absolute;
+  top: 428px;
+  left: 1273px;
+  font-size: var(--font-size-17xl);
+  font-weight: 300;
+  mix-blend-mode: soft-light;
+}
+.send {
+  top: 437px;
+  left: 1238px;
+  font-weight: 500;
+  mix-blend-mode: screen;
+}
+.instient-technical-challenge-w-inner {
+  position: absolute;
+  height: calc(100% - 996px);
+  width: calc(100% - 1275px);
+  top: 958px;
+  right: 113px;
+  bottom: 38px;
+  left: 1162px;
+  border-radius: 20px;
+  background-color: red;
+}
+.cancel {
+  position: absolute;
+  top: 972px;
+  left: 1213px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+}
+.ellipse-div {
+  position: absolute;
+  top: 71px;
+  left: 98px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 197px;
+  height: 178px;
+}
+.instient-technical-challenge-w-child1 {
+  position: absolute;
+  top: 923px;
+  left: 53px;
+  border-radius: 50%;
+  background-color: var(--color-deepskyblue-100);
+  width: 110px;
+  height: 77px;
+}
+.v,
+.v1 {
+  position: absolute;
+  font-weight: 500;
+}
+.v {
+  top: 923px;
+  left: 88px;
+  display: inline-block;
+  width: 65px;
+  height: 95px;
+}
+.v1 {
+  top: 0;
+  right: 0;
+}
+.instient-technical-challenge-w-child2,
+.instient-technical-challenge-w-child3 {
+  position: absolute;
+  top: 921px;
+  left: 150px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 84px;
+  height: 68px;
+}
+.instient-technical-challenge-w-child3 {
+  top: 928px;
+  left: 120px;
+}
+.instient-technical-challenge-w-child4 {
+  position: absolute;
+  top: 933px;
+  left: 120px;
+  border-radius: 50%;
+  background-color: #1f1c9d;
+  width: 84px;
+  height: 68px;
+}
+.s {
+  position: absolute;
+  top: 923px;
+  left: 142px;
+  font-weight: 500;
+}
+.instient-technical-challenge-w-child5 {
+  position: absolute;
+  top: 930px;
+  left: 163px;
+  border-radius: 50%;
+  background-color: #b45d1f;
+  width: 72px;
+  height: 66px;
+}
+.g {
+  position: absolute;
+  top: 921px;
+  left: 173px;
+  font-weight: 500;
+  display: inline-block;
+  width: 79px;
+  height: 143px;
+}
+.instient-technical-challenge-w-child6 {
+  position: absolute;
+  top: 71px;
+  left: 87px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 99px;
+  height: 100px;
+}
+.frame-div,
+.z {
+  position: absolute;
+}
+.z {
+  top: 62px;
+  left: 108px;
+  font-size: 96px;
+  font-weight: 500;
+  display: inline-block;
+  width: 50px;
+  height: 64px;
+}
+.frame-div {
+  height: calc(100% - 202px);
+  width: calc(100% - 715px);
+  top: 138px;
+  right: 366px;
+  bottom: 64px;
+  left: 349px;
+  overflow: hidden;
+}
+.message {
+  top: 62px;
+  left: 366px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 284px;
+  height: 98px;
+}
+.enter-message-below,
+.message,
+.zip {
+  position: absolute;
+  font-weight: 500;
+}
+.enter-message-below {
+  top: 99px;
+  left: 861px;
+  font-size: 20px;
+  color: #c7c7c7;
+}
+.zip {
+  top: 844px;
+  left: 63px;
+  color: var(--color-black);
+}
+.rectangle-div {
+  position: absolute;
+  top: 795px;
+  left: 51px;
+  background-color: var(--color-gainsboro);
+  width: 2px;
+  height: 160px;
+}
+.messanger {
+  position: absolute;
+  top: 875px;
+  left: 173px;
+  font-size: var(--font-size-5xl);
+}
+.instient-technical-challenge-w {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
